@@ -5,4 +5,4 @@ Part of Android Jetpack: [Navigation Component](https://developer.android.com/gu
 
 ## Demo
 
-![](nav_component.gif)
+![](nav_component.gif?s=200)
